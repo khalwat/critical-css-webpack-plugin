@@ -23,6 +23,6 @@
     "rollup-plugin-babel": "^4.0.0-beta.0"
   },
   "dependencies": {
-    "critical": "^1.1.0"
+    "critical": "^0.8.0"
   }
 }

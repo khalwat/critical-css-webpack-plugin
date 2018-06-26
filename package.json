@@ -1,5 +1,5 @@
 {
-  "name": "critical-css-webpack-plugin",
+  "name": "phantomjs-critical-css-webpack-plugin",
   "version": "0.1.2",
   "main": "dist/index.js",
   "license": "MIT",

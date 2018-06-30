@@ -11,7 +11,7 @@ export default function CriticalCssWebpackPlugin(options = {}) {
         width: 375,
         height: 565,
         penthouse: {
-            blockJSRequests: false
+            blockJSRequests: false,
             phantomJsOptions: {
                 'ssl-protocol': 'any',
             }
